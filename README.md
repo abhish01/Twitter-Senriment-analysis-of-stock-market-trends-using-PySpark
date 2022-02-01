@@ -1,0 +1,3 @@
+# Twitter-Senriment-analysis-of-stock-market-trends-using-PySpark
+
+This paper describes a method for sentiment analysis that makes use of the Apache Spark platform (PySpark). PySpark will assist in the processing of data available on social media platforms such as Twitter. Pre-processing and cleansing data is critical because we only want to save the content that is useful and discard the rest, such as URLs, emoticons, and other non-essential information. Sentiments were generated to classify the data as positive, neutral, or negative sentiment. Classification models such as logistic regression and Nave Bayes is applied giving accuracies of 0.89 and 0.75. descriptive models such as LDA and k-means clustering models were also applied.
